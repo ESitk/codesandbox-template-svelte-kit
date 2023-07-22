@@ -14,17 +14,16 @@
 	<h1>
 		<div class="welcome">
 			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
+			<source srcset="svelte-welcome.webp" type="image/webp" />
 				<img src="svelte-welcome.png" alt="Welcome" />
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+	 <br />K12-Forward 
 	</h1>
 
-	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
-	</h2>
+	<br /><h2> Educators</h2> 
+	<h3>dedicated to making student academic success a reality for all   K12 learners </h3>
 
 	<Counter />
 </section>

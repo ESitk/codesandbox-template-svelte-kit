@@ -10,7 +10,8 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>reach out today for a complimemtary learning 
+	consultation</p>
 </footer>
 
 <style>
@@ -30,7 +31,7 @@
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		padding: 40px;
+		padding: 30px;
 	}
 
 	footer a {
